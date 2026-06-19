@@ -1,0 +1,1 @@
+team join Dark_Grey @s

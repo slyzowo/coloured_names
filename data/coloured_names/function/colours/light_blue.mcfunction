@@ -1,0 +1,1 @@
+team join Light_Blue @s
