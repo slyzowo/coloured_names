@@ -3,7 +3,7 @@ A datapack for minecraft that allows you to change your name colour using comman
 
 Example command
 ```
-/name_colour Red
+/function coloured_names:colours/red
 ```
 
 All the options are :
