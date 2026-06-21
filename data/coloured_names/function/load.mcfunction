@@ -31,3 +31,20 @@ team modify Purple color dark_purple
 team modify Grey color gray
 team modify Dark_Grey color dark_gray
 team modify Black color black
+
+scoreboard objectives add colour.white trigger
+scoreboard objectives add colour.pink trigger
+scoreboard objectives add colour.red trigger
+scoreboard objectives add colour.maroon trigger
+scoreboard objectives add colour.orange trigger
+scoreboard objectives add colour.yellow trigger
+scoreboard objectives add colour.lime trigger
+scoreboard objectives add colour.green trigger
+scoreboard objectives add colour.light_blue trigger
+scoreboard objectives add colour.teal trigger
+scoreboard objectives add colour.blue trigger
+scoreboard objectives add colour.dark_blue trigger
+scoreboard objectives add colour.purple trigger
+scoreboard objectives add colour.grey trigger
+scoreboard objectives add colour.dark_grey trigger
+scoreboard objectives add colour.black trigger
